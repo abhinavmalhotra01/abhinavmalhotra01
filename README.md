@@ -2,7 +2,7 @@
 - 👀 I’m @abhinavmalhotra01
 - 👀 I’m interested in improving my problem solving skills and learning new techs
 - 🌱 I’m currently student at Punjab Engineering College (ECE)
-- 💞️ I’m working towards improving my cp skills and learning back-end dev
+- 💞️ I’m working towards improving my cp and dev skills
 - 📫 I'll be graduating in 2025
 
 <!---
