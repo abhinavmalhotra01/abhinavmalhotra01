@@ -10,7 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align ="center">     
-    <img width="500"  src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavmalhotra01&theme=github-dark-blue" alt="ishwar" />    
-</p>
     <img width="500"  src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavmalhotra01&theme=github-dark-blue" alt="abhinav" />    
 </p>
