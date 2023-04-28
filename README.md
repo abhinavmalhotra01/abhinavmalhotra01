@@ -1,14 +1,8 @@
-- 👋 Hiiiiii
-- 👀 I’m @abhinavmalhotra01
-- 👀 I’m interested in improving my problem solving skills and learning new techs
-- 🌱 I’m currently student at Punjab Engineering College (ECE)
-- 💞️ I’m working towards improving my cp and dev skills
-- 📫 I'll be graduating in 2025
+<h1 align="center"><picture><img src = "https://user-images.githubusercontent.com/65658829/234834637-2b18ab99-719a-426b-85ef-a9ef801d8f9c.gif" width = 50px></picture><b> Hi , I'm Abhinav </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!---
 abhinavmalhotra01/abhinavmalhotra01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 <p align ="center">     
     <img width="500"  src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavmalhotra01&theme=github-dark-blue" alt="abhinav" />    
 </p>
