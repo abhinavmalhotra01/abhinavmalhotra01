@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
-[![Abhinav's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhinavmalhotra01&theme=react-dark&include_all_commits=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abhinav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinavmalhotra01&theme=react-dark&include_all_commits=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
