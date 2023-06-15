@@ -7,6 +7,12 @@ You can click the Preview link to take a look at your changes.
     <img width="500"  src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavmalhotra01&theme=github-dark-blue" alt="abhinav" />    
 </p>
 
+---
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,ts,python,pytorch,react,express,nextjs,redux,materialui,tailwind,mysql,mongodb,prisma,git&perline=7" />
+  </a>
+</p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
 [![Abhinav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinavmalhotra01&theme=react-dark&include_all_commits=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
